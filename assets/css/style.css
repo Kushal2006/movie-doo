@@ -1,0 +1,48 @@
+body{
+    background-color: #222831;
+    margin: 0px;
+}
+
+.header-top-container{
+    width: 1365px;
+    height: 85px;
+    background-color: #393E46;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 200px;
+    height: 120px;
+    padding-left: 120px;
+}
+
+.img-header-top-container img{
+    width: 157px;
+    height: 79.656px;
+    margin-right: 126px;
+    position: relative;
+    bottom: 2px;
+}
+
+.out-search-header-top-container{
+    width: 212px;
+    height: 55px;
+    background-color: #222831;
+    border-radius: 40px;
+    margin-top: 12px;
+    margin-right: 5px;
+}
+
+.input-search-header-top-container input{
+    margin-top: 15px;
+    margin-left: 15px;
+    border: none;
+    background: none;
+}
+
+.text-header-top-container{
+    margin-right: 153px;
+    margin-top: 7px;
+}
+
