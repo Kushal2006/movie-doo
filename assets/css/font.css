@@ -4,3 +4,9 @@
     font-family: 'Fira Sans', sans-serif;
     color: #00ADB5;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+.top-10-data-middle-container{
+    font-family: 'Poppins', sans-serif;
+}
